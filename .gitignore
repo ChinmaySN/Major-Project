@@ -1,0 +1,41 @@
+# ==========================
+# ModelSim
+# ==========================
+work/
+transcript
+vsim.wlf
+*.wlf
+
+# ==========================
+# Simulation files
+# ==========================
+*.fdo
+*.udo
+
+# ==========================
+# Xilinx ISE generated files
+# ==========================
+*.ngc
+*.ngr
+*.stx
+*.syr
+*.lso
+*.cmd_log
+*_summary.html
+*_vhdl.prj
+
+# Project navigation
+__projnav/
+__projnav.log
+__ISE_repository_*.lock
+
+# Build directories
+xst/
+
+# Backup files
+*.bak
+*.tmp
+
+# OS files
+Thumbs.db
+Desktop.ini

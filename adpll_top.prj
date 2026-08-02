@@ -1,0 +1,8 @@
+verilog work "ref_clk_gen.v"
+verilog work "tdc.v"
+verilog work "adaptive_ctrl.v"
+verilog work "loop_filter.v"
+verilog work "dco.v"
+verilog work "divider.v"
+verilog work "lock_detect.v"
+verilog work "adpll_top.v"
